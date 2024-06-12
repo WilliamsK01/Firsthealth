@@ -1,4 +1,4 @@
-import 'package:firsthealth/home/home_page.dart';
+import '../home/home_page.dart';
 import 'package:firsthealth/pages/geste_page.dart';
 import 'package:firsthealth/pages/setting_page.dart';
 import 'package:flutter/material.dart';
