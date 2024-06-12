@@ -1,16 +1,25 @@
-# firsthealth
+# FirstHealth
 
-A new Flutter project.
+FirstHealth est une application mobile de premiers secours développée avec Flutter. Elle fournit des instructions détaillées et des conseils pratiques pour faire face à diverses situations d'urgence médicale.
 
-## Getting Started
+## Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+- Appel d'urgence direct aux services de secours
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies utilisées
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter pour le développement multi-plateformes (iOS et Android)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clonez le dépôt GitHub : `git clone https://github.com/votrecompte/firsthealth.git`
+2. Installez les dépendances : `flutter pub get`
+3. Démarrez l'application : `flutter run`
+
+## Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir des issues ou à soumettre des pull requests pour améliorer l'application.
+
+## Licence
+
+Ce projet est sous licence MIT.

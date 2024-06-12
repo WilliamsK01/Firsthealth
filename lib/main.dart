@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: '1st Health',
-      home: BottomBar(),
+      home: BottomBar()
       );
   }
 }
